@@ -23,6 +23,11 @@ Submitted for the **Superteam Earn Bounty**: *Inside the Block: How Solana Valid
 
 Read the full comprehensive report in [`REPORT.md`](REPORT.md).
 
+<p align="center">
+  <img src="assets/fee_vs_position_correlation.png" alt="Spearman Correlation" width="48%" />
+  <img src="assets/gini_distribution.png" alt="Gini Distribution" width="48%" />
+</p>
+
 1. **Global Rank Correlation:** $\rho_{\text{global}} \approx 0$ across all three client implementations. Transactions are **not** sorted globally by priority fee.
 2. **Architecture Reason:** Solana's multi-threaded banking stage partitions transactions across parallel CPU worker threads by write locks; arrival and thread completion times dominate global block positioning.
 3. **MEV Bundles:** In Jito-enabled nodes, direct MEV bundles exhibit an **88% placement bias in the first 25% of the block**.

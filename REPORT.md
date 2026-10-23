@@ -66,6 +66,16 @@ Six high-stake validators spanning three distinct client software families were 
 2. **Intra-Lock Inversion Rate:** Across 2,300+ conflicting write-lock groups analyzed, the pairwise inversion rate ($i < j$ where $\text{fee}(i) < \text{fee}(j)$) averaged **36.2%**. This confirms that arrival order dominates over fee sorting even when two transactions compete for the identical account.
 3. **MEV Front-Loading:** In validator `EvnRmnMrd69k` (running Firedancer with Jito MEV bundles), **88% of all tip transactions were placed in the first quartile of the block** (indices 0 to 129 of 519), confirming deterministic bundle head-placement.
 
+### Visual Data Distributions
+
+![Gini Distribution](assets/gini_distribution.png)
+
+*Figure 1: Priority fee inequality across Solana Mainnet blocks ($G > 0.88$). Less than 5% of transactions contribute >90% of total block priority fees.*
+
+![Spearman Correlation](assets/fee_vs_position_correlation.png)
+
+*Figure 2: Spearman rank correlation ($\rho$) between transaction index and priority fee rate across 12 blocks. Fluctuations stay strictly within $[-0.15, +0.15]$, empirically disproving the hypothesis of a global priority fee sort rule.*
+
 ---
 
 ## 4. Architectural Analysis: Why Global Ordering Does Not Exist
