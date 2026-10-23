@@ -1,5 +1,9 @@
 # ⚡ Solana Validator Block Ordering Auditor
 
+[![CI](https://github.com/ashokwebs/solana-block-ordering/actions/workflows/ci.yml/badge.svg)](https://github.com/ashokwebs/solana-block-ordering/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+
 An empirical testing framework and data analysis pipeline investigating how Solana validators (**Agave**, **Jito-Solana**, and **Firedancer**) order transactions within blocks on Solana Mainnet-Beta.
 
 Submitted for the **Superteam Earn Bounty**: *Inside the Block: How Solana Validators Order Transactions* ($2,500 USDC).
