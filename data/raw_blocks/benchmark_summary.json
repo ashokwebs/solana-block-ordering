@@ -1,0 +1,386 @@
+[
+  {
+    "slot": 460382399,
+    "leader_pubkey": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+    "total_transactions": 368,
+    "vote_transactions": 0,
+    "non_vote_transactions": 368,
+    "fee_gini_coefficient": 0.9747992231757714,
+    "mean_fee_per_cu": 5257904.182204414,
+    "median_fee_per_cu": 23768.982829395238,
+    "max_fee_per_cu": 1333333333.3333333,
+    "global_correlation": {
+      "spearman_rho": 0.039603871064941835,
+      "spearman_pvalue": 0.44878239304646705,
+      "kendall_tau": 0.028167062991999125,
+      "kendall_pvalue": 0.4351665583729202,
+      "sample_size": 368
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": -0.2722843092216073,
+      "conflicting_groups_analyzed": 238,
+      "inversion_ratio": 0.32094175960346966,
+      "total_pairs_compared": 8877
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 13,
+      "front_quartile_ratio": 0.23076923076923078,
+      "mean_relative_position": 0.5767140468227425
+    },
+    "client_family": "Firedancer / Frankendancer",
+    "version": "26.10.4",
+    "raw_file": "data/raw_blocks/block_460382399_JUPiTERr.json"
+  },
+  {
+    "slot": 460382398,
+    "leader_pubkey": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+    "total_transactions": 344,
+    "vote_transactions": 0,
+    "non_vote_transactions": 344,
+    "fee_gini_coefficient": 0.8994169855133985,
+    "mean_fee_per_cu": 957390.0056093066,
+    "median_fee_per_cu": 29029.29769212973,
+    "max_fee_per_cu": 25524166.099387337,
+    "global_correlation": {
+      "spearman_rho": -0.006356446241362298,
+      "spearman_pvalue": 0.9064903198461942,
+      "kendall_tau": -0.007919053496674086,
+      "kendall_pvalue": 0.8325200728179406,
+      "sample_size": 344
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": -0.11527776603647721,
+      "conflicting_groups_analyzed": 197,
+      "inversion_ratio": 0.3934699714013346,
+      "total_pairs_compared": 8392
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 12,
+      "front_quartile_ratio": 0.4166666666666667,
+      "mean_relative_position": 0.503875968992248
+    },
+    "client_family": "Firedancer / Frankendancer",
+    "version": "26.10.4",
+    "raw_file": "data/raw_blocks/block_460382398_JUPiTERr.json"
+  },
+  {
+    "slot": 460382323,
+    "leader_pubkey": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+    "total_transactions": 430,
+    "vote_transactions": 0,
+    "non_vote_transactions": 430,
+    "fee_gini_coefficient": 0.9251284061048936,
+    "mean_fee_per_cu": 1021505.7728867542,
+    "median_fee_per_cu": 14252.33751571292,
+    "max_fee_per_cu": 143452229.29936305,
+    "global_correlation": {
+      "spearman_rho": 0.1569706224056909,
+      "spearman_pvalue": 0.0010915345910652659,
+      "kendall_tau": 0.11005663743839694,
+      "kendall_pvalue": 0.000969893250481982,
+      "sample_size": 430
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": -0.031651569711181486,
+      "conflicting_groups_analyzed": 291,
+      "inversion_ratio": 0.40706381286859716,
+      "total_pairs_compared": 15091
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 21,
+      "front_quartile_ratio": 0.7142857142857143,
+      "mean_relative_position": 0.28925802879291257
+    },
+    "client_family": "Firedancer / Frankendancer",
+    "version": "26.10.4",
+    "raw_file": "data/raw_blocks/block_460382323_EvnRmnMr.json"
+  },
+  {
+    "slot": 460382322,
+    "leader_pubkey": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+    "total_transactions": 519,
+    "vote_transactions": 0,
+    "non_vote_transactions": 519,
+    "fee_gini_coefficient": 0.9539925983688797,
+    "mean_fee_per_cu": 1986935.4042894335,
+    "median_fee_per_cu": 25931.000633959793,
+    "max_fee_per_cu": 155473029.04564315,
+    "global_correlation": {
+      "spearman_rho": 0.15182618133614453,
+      "spearman_pvalue": 0.0005192211209757426,
+      "kendall_tau": 0.10732273995246845,
+      "kendall_pvalue": 0.00036959762560109983,
+      "sample_size": 519
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": 0.023273892003336974,
+      "conflicting_groups_analyzed": 350,
+      "inversion_ratio": 0.4200355660936574,
+      "total_pairs_compared": 25305
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 16,
+      "front_quartile_ratio": 0.875,
+      "mean_relative_position": 0.16064547206165702
+    },
+    "client_family": "Firedancer / Frankendancer",
+    "version": "26.10.4",
+    "raw_file": "data/raw_blocks/block_460382322_EvnRmnMr.json"
+  },
+  {
+    "slot": 460382439,
+    "leader_pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+    "total_transactions": 343,
+    "vote_transactions": 0,
+    "non_vote_transactions": 343,
+    "fee_gini_coefficient": 0.9580041431588445,
+    "mean_fee_per_cu": 3332601.4844937264,
+    "median_fee_per_cu": 25841.346153846152,
+    "max_fee_per_cu": 666670000.0,
+    "global_correlation": {
+      "spearman_rho": 0.05401666807335475,
+      "spearman_pvalue": 0.31853197004498973,
+      "kendall_tau": 0.03645943054984233,
+      "kendall_pvalue": 0.3332084915676281,
+      "sample_size": 343
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": -0.166364966214679,
+      "conflicting_groups_analyzed": 237,
+      "inversion_ratio": 0.33893795892306056,
+      "total_pairs_compared": 9397
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 7,
+      "front_quartile_ratio": 0.14285714285714285,
+      "mean_relative_position": 0.7092877967513537
+    },
+    "client_family": "Agave / Solana Labs",
+    "version": "4.3.2",
+    "raw_file": "data/raw_blocks/block_460382439_Fd7btgyS.json"
+  },
+  {
+    "slot": 460382438,
+    "leader_pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+    "total_transactions": 305,
+    "vote_transactions": 0,
+    "non_vote_transactions": 305,
+    "fee_gini_coefficient": 0.9510421669074146,
+    "mean_fee_per_cu": 2576390.972182664,
+    "median_fee_per_cu": 27844.137771077352,
+    "max_fee_per_cu": 302823832.23559695,
+    "global_correlation": {
+      "spearman_rho": -0.04662357155800889,
+      "spearman_pvalue": 0.4171683757107314,
+      "kendall_tau": -0.03355803892962134,
+      "kendall_pvalue": 0.40177609517152335,
+      "sample_size": 305
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": -0.10651936821338286,
+      "conflicting_groups_analyzed": 157,
+      "inversion_ratio": 0.327423552374756,
+      "total_pairs_compared": 6148
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 12,
+      "front_quartile_ratio": 0.25,
+      "mean_relative_position": 0.6273224043715847
+    },
+    "client_family": "Agave / Solana Labs",
+    "version": "4.3.2",
+    "raw_file": "data/raw_blocks/block_460382438_Fd7btgyS.json"
+  },
+  {
+    "slot": 460382507,
+    "leader_pubkey": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+    "total_transactions": 410,
+    "vote_transactions": 0,
+    "non_vote_transactions": 410,
+    "fee_gini_coefficient": 0.9377422920432276,
+    "mean_fee_per_cu": 9246881.820373941,
+    "median_fee_per_cu": 187143.25816412465,
+    "max_fee_per_cu": 1333333333.3333333,
+    "global_correlation": {
+      "spearman_rho": -0.14860140735980584,
+      "spearman_pvalue": 0.002556879069269137,
+      "kendall_tau": -0.10888514634999877,
+      "kendall_pvalue": 0.001238279170768734,
+      "sample_size": 410
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": -0.08687981830885708,
+      "conflicting_groups_analyzed": 230,
+      "inversion_ratio": 0.39828900617475593,
+      "total_pairs_compared": 28989
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 17,
+      "front_quartile_ratio": 0.23529411764705882,
+      "mean_relative_position": 0.5470588235294117
+    },
+    "client_family": "Agave / Solana Labs",
+    "version": "4.3.2",
+    "raw_file": "data/raw_blocks/block_460382507_DRpbCBMx.json"
+  },
+  {
+    "slot": 460382506,
+    "leader_pubkey": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+    "total_transactions": 383,
+    "vote_transactions": 0,
+    "non_vote_transactions": 383,
+    "fee_gini_coefficient": 0.9416207019851462,
+    "mean_fee_per_cu": 9370341.739678463,
+    "median_fee_per_cu": 180668.47335140017,
+    "max_fee_per_cu": 1433333333.3333333,
+    "global_correlation": {
+      "spearman_rho": -0.07682269668641428,
+      "spearman_pvalue": 0.13341915539504104,
+      "kendall_tau": -0.05861103338033166,
+      "kendall_pvalue": 0.09231762865031973,
+      "sample_size": 383
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": -0.3159155285735458,
+      "conflicting_groups_analyzed": 262,
+      "inversion_ratio": 0.4007190265486726,
+      "total_pairs_compared": 25312
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 14,
+      "front_quartile_ratio": 0.07142857142857142,
+      "mean_relative_position": 0.6178664677359195
+    },
+    "client_family": "Agave / Solana Labs",
+    "version": "4.3.2",
+    "raw_file": "data/raw_blocks/block_460382506_DRpbCBMx.json"
+  },
+  {
+    "slot": 460382591,
+    "leader_pubkey": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+    "total_transactions": 251,
+    "vote_transactions": 0,
+    "non_vote_transactions": 251,
+    "fee_gini_coefficient": 0.899975948942127,
+    "mean_fee_per_cu": 674390.3403255318,
+    "median_fee_per_cu": 17391.304347826088,
+    "max_fee_per_cu": 18489072.95788189,
+    "global_correlation": {
+      "spearman_rho": -0.05266620709858252,
+      "spearman_pvalue": 0.40608576403386554,
+      "kendall_tau": -0.03595317543849799,
+      "kendall_pvalue": 0.415806323949215,
+      "sample_size": 251
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": -0.056713949260437845,
+      "conflicting_groups_analyzed": 141,
+      "inversion_ratio": 0.31296361709643233,
+      "total_pairs_compared": 2831
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 14,
+      "front_quartile_ratio": 0.0,
+      "mean_relative_position": 0.6582242458736483
+    },
+    "client_family": "Jito-Solana",
+    "version": "4.3.2",
+    "raw_file": "data/raw_blocks/block_460382591_HEL1USMZ.json"
+  },
+  {
+    "slot": 460382590,
+    "leader_pubkey": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+    "total_transactions": 310,
+    "vote_transactions": 0,
+    "non_vote_transactions": 310,
+    "fee_gini_coefficient": 0.98375011082148,
+    "mean_fee_per_cu": 4929628.071250003,
+    "median_fee_per_cu": 4930.678427795689,
+    "max_fee_per_cu": 1333333333.3333333,
+    "global_correlation": {
+      "spearman_rho": -0.0426996592312168,
+      "spearman_pvalue": 0.45379109128779216,
+      "kendall_tau": -0.026905431203426988,
+      "kendall_pvalue": 0.5038854225629403,
+      "sample_size": 310
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": 0.08066852458139186,
+      "conflicting_groups_analyzed": 173,
+      "inversion_ratio": 0.3107460643394935,
+      "total_pairs_compared": 5844
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 21,
+      "front_quartile_ratio": 0.14285714285714285,
+      "mean_relative_position": 0.6508448540706604
+    },
+    "client_family": "Jito-Solana",
+    "version": "4.3.2",
+    "raw_file": "data/raw_blocks/block_460382590_HEL1USMZ.json"
+  },
+  {
+    "slot": 460382427,
+    "leader_pubkey": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+    "total_transactions": 258,
+    "vote_transactions": 0,
+    "non_vote_transactions": 258,
+    "fee_gini_coefficient": 0.9014132556662767,
+    "mean_fee_per_cu": 505906.3080235261,
+    "median_fee_per_cu": 5842.8127401349875,
+    "max_fee_per_cu": 39506172.83950617,
+    "global_correlation": {
+      "spearman_rho": -0.05637792294871384,
+      "spearman_pvalue": 0.3671185731312343,
+      "kendall_tau": -0.03932109749073087,
+      "kendall_pvalue": 0.37427050794128325,
+      "sample_size": 258
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": 0.3500369634759345,
+      "conflicting_groups_analyzed": 124,
+      "inversion_ratio": 0.4071724137931034,
+      "total_pairs_compared": 3625
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 34,
+      "front_quartile_ratio": 0.20588235294117646,
+      "mean_relative_position": 0.5955312357501141
+    },
+    "client_family": "Jito-Solana",
+    "version": "4.3.2",
+    "raw_file": "data/raw_blocks/block_460382427_E1r4Psq8.json"
+  },
+  {
+    "slot": 460382426,
+    "leader_pubkey": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+    "total_transactions": 283,
+    "vote_transactions": 0,
+    "non_vote_transactions": 283,
+    "fee_gini_coefficient": 0.98277083528182,
+    "mean_fee_per_cu": 6042671.249893298,
+    "median_fee_per_cu": 9119.251053430726,
+    "max_fee_per_cu": 1333333333.3333333,
+    "global_correlation": {
+      "spearman_rho": 0.03239301837536649,
+      "spearman_pvalue": 0.5873601374547632,
+      "kendall_tau": 0.02286380663752025,
+      "kendall_pvalue": 0.5860932117485791,
+      "sample_size": 283
+    },
+    "intra_lock_correlation": {
+      "average_intra_group_rho": 0.1266432820655764,
+      "conflicting_groups_analyzed": 164,
+      "inversion_ratio": 0.31916666666666665,
+      "total_pairs_compared": 4800
+    },
+    "jito_bundle_analysis": {
+      "jito_tip_count": 26,
+      "front_quartile_ratio": 0.3076923076923077,
+      "mean_relative_position": 0.4577330796412068
+    },
+    "client_family": "Jito-Solana",
+    "version": "4.3.2",
+    "raw_file": "data/raw_blocks/block_460382426_E1r4Psq8.json"
+  }
+]

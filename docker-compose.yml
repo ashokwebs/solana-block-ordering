@@ -1,0 +1,8 @@
+services:
+  auditor:
+    build: .
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: ["pytest", "tests/", "-v"]
